@@ -127,8 +127,8 @@ View weather, emissions, and route comparison
 ## 📝 Documentation
 
 📸 Screenshots
-![Home Page Screenshot](/EcoCommute/frontend/src/assets/Screenshot1.png)
-![Dashboard Screenshot](/EcoCommute/frontend/src/assets/Screenshot2.png)
+![Home Page Screenshot](./frontend/src/assets/Screenshot1.png)
+![Dashboard Screenshot](./frontend/src/assets/Screenshot2.png)
 
 ---
 
