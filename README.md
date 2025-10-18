@@ -127,8 +127,8 @@ View weather, emissions, and route comparison
 ## 📝 Documentation
 
 📸 Screenshots
-📷 Add your screenshots below this comment
-(e.g., homepage, dashboard, route map, etc.)
+![Home Page Screenshot](/EcoCommute/frontend/src/assets/Screenshot1.png)
+![Dashboard Screenshot](/EcoCommute/frontend/src/assets/Screenshot2.png)
 
 ---
 
@@ -146,11 +146,12 @@ View weather, emissions, and route comparison
 
 ## 👥 Team Members
 
-Name Role GitHub
-Aman Singh Kunwar Frontend Developer Aman-Singh-Kunwar
-Deepak Singh Backend Developer Deepaksingh1227
-Harikesh Full-Stack Integration & Deployment Harikesh312
-Lucky Singh Contributor / Support luckysingh25
+| Name                  | Role                                | GitHub                                                    |
+| --------------------- | ----------------------------------- | --------------------------------------------------------- |
+| **Aman Singh Kunwar** | Frontend Developer                  | [Aman-Singh-Kunwar](https://github.com/Aman-Singh-Kunwar) |
+| **Deepak Singh**      | Backend Developer                   | [Deepaksingh1227](https://github.com/Deepaksingh1227)     |
+| **Harikesh**          | Full-Stack Integration & Deployment | [Harikesh312](https://github.com/Harikesh312)             |
+| **Lucky Singh**       | Contributor / Support               | [luckysingh25](https://github.com/luckysingh25)           |
 
 ---
 
